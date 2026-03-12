@@ -1,7 +1,7 @@
 # ANN Fashion MNIST using PyTorch
 
 This is a small practice notebook where I tried to build a simple 
-Artificial Neural Network (ANN) using PyTorch.
+Artificial Neural Network (ANN) using PyTorch. 
 
 In this notebook I used the Fashion MNIST dataset. The dataset contains 
 different types of clothing images like shirts, shoes, bags, etc.
