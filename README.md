@@ -19,3 +19,6 @@ classify the images.
 - Building a simple ANN model
 - Training the model using PyTorch
 - Evaluating model performance 
+
+
+Small README update for pull request practice.
