@@ -1,1 +1,28 @@
-# 4th
+# ANN Fashion MNIST using PyTorch
+
+This is a small practice notebook where I tried to build a simple 
+Artificial Neural Network (ANN) using PyTorch.
+
+In this notebook I used the Fashion MNIST dataset. The dataset contains 
+different types of clothing images like shirts, shoes, bags, etc.
+
+First I loaded the dataset and prepared the data for training. Then I 
+built a simple ANN model using PyTorch.
+
+After that I trained the model and checked how well the model can 
+classify the images.
+
+## What I practiced
+
+- Loading Fashion MNIST dataset
+- Data preprocessing
+- Building a simple ANN model
+- Training the model using PyTorch
+- Evaluating model performance
+
+## Purpose
+
+The main purpose of this notebook is to understand how a basic neural 
+network works in PyTorch and how to train a model on an image dataset.
+
+This notebook is created as part of my learning and practice.
