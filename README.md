@@ -18,4 +18,4 @@ classify the images.
 - Data preprocessing
 - Building a simple ANN model
 - Training the model using PyTorch
-- Evaluating model performance
+- Evaluating model performance 
