@@ -23,5 +23,4 @@ classify the images.
 ## Purpose
 
 The main purpose of this notebook is to understand how a basic neural 
-network works in PyTorch and how to train a model on an image dataset.
 
