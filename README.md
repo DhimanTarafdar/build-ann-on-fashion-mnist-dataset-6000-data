@@ -20,4 +20,3 @@ classify the images.
 - Training the model using PyTorch
 - Evaluating model performance
 
-
