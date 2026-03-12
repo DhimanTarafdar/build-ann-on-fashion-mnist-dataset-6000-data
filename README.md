@@ -19,4 +19,3 @@ classify the images.
 - Building a simple ANN model
 - Training the model using PyTorch
 - Evaluating model performance
-
