@@ -12,7 +12,7 @@ built a simple ANN model using PyTorch.
 After that I trained the model and checked how well the model can 
 classify the images.
 
-## What I practiced
+## What I practiced 
 
 - Loading Fashion MNIST dataset
 - Data preprocessing
